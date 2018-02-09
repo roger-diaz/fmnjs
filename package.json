@@ -1,0 +1,22 @@
+{
+  "name": "fmnjs",
+  "version": "1.0.0",
+  "description": "Make freemarker available for node.js",
+  "main": "fm.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "freemarker"
+  ],
+  "author": "roger.diaz",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {}
+}
